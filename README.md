@@ -8,14 +8,14 @@ The point of this file is to be able to run one quick command and output a list 
 
 ## About the author
 
-Hi, I'm Clara and I have been working in laravel for close to a decade and have been working in PHP for 15 years. I hold an OSCP certification and have been hacking since I was 10 years old. If you like my work and would like to see me spend more time on this project, please consider sponsoring me on Github!
+Hi, I'm Clara and I have been working in laravel for close to a decade and have been working in PHP for 15 years. I hold an OSCP certification and have been hacking since I was 10 years old. If you like my work and would like to see me spend more time on this project, [please consider sponsoring me on Github!](https://github.com/sponsors/ClaraLeigh)
 
 ## How to use
 
 This tool was designed to be a single command that you can run in your terminal. You can run it like this:
 
 ```bash
-curl -s https://raw.githubusercontent.com/leighhalliday/quick-laravel-security-audit/main/audit.sh | bash
+curl -s https://raw.githubusercontent.com/ClaraLeigh/laravel-security-audit/main/audit.sh | bash
 ```
 
 This will then output a file called `audit.html` in your current directory. You can open this file in your browser and see the results.
